@@ -1,0 +1,36 @@
+{
+  "world": { "width": 3072, "height": 2048 },
+  "conventions": {
+    "file": "<asset-id>.png",
+    "localDetailPixelDensity": 2,
+    "localDetailEdge": "soft-alpha",
+    "atlasGrid": [4, 4],
+    "atlasCell": [256, 256]
+  },
+  "assets": [
+    { "id": "01-base-autumn", "kind": "base", "season": "autumn", "size": [3072, 2048] },
+    { "id": "02-base-winter", "kind": "base", "season": "winter", "size": [3072, 2048] },
+    { "id": "03-ground-dry-grass", "kind": "tile", "season": "autumn", "size": [1024, 1024] },
+    { "id": "04-ground-sparse-soil", "kind": "tile", "season": "autumn", "size": [1024, 1024] },
+    { "id": "05-ground-rock-scree", "kind": "tile", "season": "autumn", "size": [1024, 1024] },
+    { "id": "06-ground-wet-mud", "kind": "tile", "season": "autumn", "size": [1024, 1024] },
+    { "id": "07-ground-thin-snow", "kind": "tile", "season": "winter", "size": [1024, 1024], "source": "03-ground-dry-grass" },
+    { "id": "08-ground-snow-soil", "kind": "tile", "season": "winter", "size": [1024, 1024], "source": "04-ground-sparse-soil" },
+    { "id": "09-ground-snow-scree", "kind": "tile", "season": "winter", "size": [1024, 1024], "source": "05-ground-rock-scree" },
+    { "id": "10-ground-frozen-mud", "kind": "tile", "season": "winter", "size": [1024, 1024], "source": "06-ground-wet-mud" },
+    { "id": "11-detail-clearing-autumn", "kind": "local-detail", "season": "autumn", "size": [1024, 1024], "worldRect": [1152, 768, 512, 512] },
+    { "id": "12-detail-clearing-winter", "kind": "local-detail", "season": "winter", "size": [1024, 1024], "worldRect": [1152, 768, 512, 512] },
+    { "id": "13-detail-forest-autumn", "kind": "local-detail", "season": "autumn", "size": [1024, 1024], "worldRect": [256, 256, 512, 512] },
+    { "id": "14-detail-forest-winter", "kind": "local-detail", "season": "winter", "size": [1024, 1024], "worldRect": [256, 256, 512, 512] },
+    { "id": "15-detail-mountain-autumn", "kind": "local-detail", "season": "autumn", "size": [1024, 1024], "worldRect": [2176, 128, 512, 512] },
+    { "id": "16-detail-mountain-winter", "kind": "local-detail", "season": "winter", "size": [1024, 1024], "worldRect": [2176, 128, 512, 512] },
+    { "id": "17-detail-river-autumn", "kind": "local-detail", "season": "autumn", "size": [1024, 1024], "worldRect": [2432, 768, 512, 512] },
+    { "id": "18-detail-river-winter", "kind": "local-detail", "season": "winter", "size": [1024, 1024], "worldRect": [2432, 768, 512, 512] },
+    { "id": "19-detail-wetland-autumn", "kind": "local-detail", "season": "autumn", "size": [1024, 1024], "worldRect": [256, 1408, 512, 512] },
+    { "id": "20-detail-wetland-winter", "kind": "local-detail", "season": "winter", "size": [1024, 1024], "worldRect": [256, 1408, 512, 512] },
+    { "id": "21-atlas-vegetation-autumn", "kind": "atlas", "season": "autumn", "size": [1024, 1024], "grid": [4, 4] },
+    { "id": "22-atlas-vegetation-winter", "kind": "atlas", "season": "winter", "size": [1024, 1024], "grid": [4, 4], "source": "21-atlas-vegetation-autumn" },
+    { "id": "23-atlas-rock-debris", "kind": "atlas", "season": "shared", "size": [1024, 1024], "grid": [4, 4] },
+    { "id": "24-atlas-frost-ice", "kind": "atlas", "season": "winter", "size": [1024, 1024], "grid": [4, 4] }
+  ]
+}
