@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "createdAt": "2026-07-22",
+  "purpose": "GitHub and browser runtime assets",
+  "runtimeFormat": "webp",
+  "browserConvertsToPng": false,
+  "encoding": {"mode": "lossy", "quality": 92, "method": 6, "metadata": "stripped"},
+  "seasons": {
+    "autumn": {
+      "manifest": "maps/autumn/autumn-tiles-manifest.json",
+      "overview": "maps/autumn/autumn-l2-webp-overview.jpg",
+      "handoff": "docs/AUTUMN-PNG-HANDOFF.md",
+      "tileCount": 43
+    },
+    "winter": {
+      "manifest": "maps/winter/winter-tiles-manifest.json",
+      "overview": "maps/winter/winter-l2-webp-overview.jpg",
+      "handoff": "docs/WINTER-HANDOFF.md",
+      "pngHandoff": "docs/WINTER-PNG-HANDOFF.md",
+      "tileCount": 43
+    }
+  },
+  "totalTileCount": 86,
+  "sourceMastersBundled": false,
+  "verification": {
+    "allFilesDecoded": true,
+    "allDimensionsMatched": true,
+    "webpDerivedOverviewsInspected": true
+  }
+}

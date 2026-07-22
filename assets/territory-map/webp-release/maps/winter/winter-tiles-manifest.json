@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-22",
+  "season": "winter",
+  "containsBuildings": false,
+  "sourceFormat": "png",
+  "runtimeFormat": "webp",
+  "sourceMastersBundled": false,
+  "webpStatus": "complete",
+  "webpEncoding": {"mode": "lossy", "quality": 92, "method": 6, "metadata": "stripped"},
+  "basePath": "/maps/winter",
+  "totalCompletedCount": 43,
+  "levels": {
+    "L0": {
+      "grid": [1, 1],
+      "tilePixels": [1536, 1024],
+      "zoomRange": [1.0, 2.75],
+      "preloadNextAt": 2.25,
+      "completedCount": 1,
+      "tiles": ["L0/winter-l0.webp"]
+    },
+    "L1": {
+      "grid": [3, 2],
+      "tilePixels": [1536, 1536],
+      "zoomRange": [2.25, 5.75],
+      "preloadNextAt": 5.0,
+      "completedCount": 6,
+      "pathTemplate": "L1/winter-l1-r{row}-c{column}.webp",
+      "tiles": [
+        "L1/winter-l1-r0-c0.webp", "L1/winter-l1-r0-c1.webp", "L1/winter-l1-r0-c2.webp",
+        "L1/winter-l1-r1-c0.webp", "L1/winter-l1-r1-c1.webp", "L1/winter-l1-r1-c2.webp"
+      ]
+    },
+    "L2": {
+      "grid": [6, 6],
+      "tilePixels": [2560, 1707],
+      "zoomRange": [5.0, 16.0],
+      "completedCount": 36,
+      "pathTemplate": "L2/winter-l2-r{row}-c{column}.webp",
+      "tiles": [
+        "L2/winter-l2-r0-c0.webp", "L2/winter-l2-r0-c1.webp", "L2/winter-l2-r0-c2.webp", "L2/winter-l2-r0-c3.webp", "L2/winter-l2-r0-c4.webp", "L2/winter-l2-r0-c5.webp",
+        "L2/winter-l2-r1-c0.webp", "L2/winter-l2-r1-c1.webp", "L2/winter-l2-r1-c2.webp", "L2/winter-l2-r1-c3.webp", "L2/winter-l2-r1-c4.webp", "L2/winter-l2-r1-c5.webp",
+        "L2/winter-l2-r2-c0.webp", "L2/winter-l2-r2-c1.webp", "L2/winter-l2-r2-c2.webp", "L2/winter-l2-r2-c3.webp", "L2/winter-l2-r2-c4.webp", "L2/winter-l2-r2-c5.webp",
+        "L2/winter-l2-r3-c0.webp", "L2/winter-l2-r3-c1.webp", "L2/winter-l2-r3-c2.webp", "L2/winter-l2-r3-c3.webp", "L2/winter-l2-r3-c4.webp", "L2/winter-l2-r3-c5.webp",
+        "L2/winter-l2-r4-c0.webp", "L2/winter-l2-r4-c1.webp", "L2/winter-l2-r4-c2.webp", "L2/winter-l2-r4-c3.webp", "L2/winter-l2-r4-c4.webp", "L2/winter-l2-r4-c5.webp",
+        "L2/winter-l2-r5-c0.webp", "L2/winter-l2-r5-c1.webp", "L2/winter-l2-r5-c2.webp", "L2/winter-l2-r5-c3.webp", "L2/winter-l2-r5-c4.webp", "L2/winter-l2-r5-c5.webp"
+      ]
+    }
+  },
+  "overview": "winter-l2-webp-overview.jpg",
+  "zoomPolicyStatus": "provisional_revalidate_during_frontend_integration",
+  "nextBatch": null
+}
