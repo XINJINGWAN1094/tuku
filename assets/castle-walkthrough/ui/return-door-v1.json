@@ -1,0 +1,11 @@
+{
+  "file": "return-door-v1.png",
+  "dimensions": [
+    1087,
+    1447
+  ],
+  "description": "领主城堡漫游静态返回按钮。沿用第三张候选门框的比例和雕刻，加入单扇深色木门；不播放开门动效。",
+  "generation_tool": "built-in image_gen",
+  "prompt": "Edit this exact image into a TRANSPARENT BACKGROUND PNG game asset. Preserve the existing stone doorframe EXACTLY: same width, height, aspect ratio, pillar thickness, arch shape, carved leaves, bronze details, small feet, threshold, colors, camera and composition. Do not make it taller, shorter, wider, narrower, thicker or simpler. The user chose THIS exact third version. Make only these two changes: (1) add a CLOSED single-leaf dark oak wooden door that precisely fills the existing pointed-arch opening, recessed just behind the stone jamb. Elegant restrained western high-fantasy craftsmanship: several broad vertical dark wood boards with subtle grain, two graceful aged bronze strap hinges on the left and a small bronze ring handle on the right, softly worn and beautifully painted to match the frame. No heavy chains, bars, giant lock or extra emblems. Keep it one single door, not double doors. (2) Completely remove the gray and white checkerboard surrounding the frame, returning true alpha transparency outside the stone silhouette. Keep the object itself opaque. The background must not be rendered as a visible color or pattern. No room, scenery, floor plane, outside shadows, text, arrow, label, watermark or interface. The result is this chosen frame with a tasteful closed wood door inserted and the background removed, with all architecture and proportions locked.",
+  "postprocess": "用户明确授权本地抠图：去除外部棋盘格，保留木门和门框比例、细节；外缘为真实 alpha 透明。"
+}
