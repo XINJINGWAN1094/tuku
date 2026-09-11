@@ -1,0 +1,61 @@
+{
+  "description": "领主城堡漫游已认可的五场景雏形；原图原样上传，与交互入口共用 1536 × 1024 坐标。",
+  "generation_tool": "built-in image_gen",
+  "images": [
+    {
+      "id": "hall-v3",
+      "file": "hall-v3.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2445959,
+      "sha256": "e087fc864cc3f9df178d0f7abcc957d954e75661603f635880d07bd8b006e009",
+      "prompt": "Precise architectural correction of ONLY the staircase in this image. Preserve the rest of this great hall EXACTLY: camera, room proportions, generous single-floor height, tall stone walls without any upper gallery, windows, door, fireplace, table, chandelier, rugs, lighting, colors. USER REJECTED the bent, bowed, outward-leaning staircase. Rebuild the visible staircase on the RIGHT as a physically credible STRAIGHT RECTANGULAR FLIGHT OF STONE STAIRS, entirely rigid and geometrically regular. Every tread is a straight level rectangular slab, identical riser heights and tread depths with consistent perspective. Both side edges are straight in world space and converge consistently toward the back, not curved, splayed, twisted or fan shaped. The dark oak handrail is ONE STRAIGHT inclined line above the lower straight run with upright vertical stable newel posts and balusters. NO outward tilt of the rail, NO ornamental bulging at the bottom, NO curved steps, NO winding visible stairs. The lower flight rises STRAIGHT away from the viewer to the existing recessed archway within the solid right stone wall. At the top of this visible straight flight the stairs vanish into the enclosed stairwell; any subsequent ninety-degree turn occurs BEHIND the opaque masonry so it is completely invisible from the hall. Show a short flat mid-stair landing and a solid back wall through the recess if needed to occlude the hidden continuation, but absolutely NO visible sideways curving stairs or second-floor rooms, galleries, balconies, or upper floor landing. Keep the original right-side footprint, correct the geometry instead of moving the entire staircase into the room. This must look like credible load-bearing stone construction with sober wood railings. Same realistic refined environmental painting finish. No people, labels, UI, collage, watermark. One 1536x1024 landscape image."
+    },
+    {
+      "id": "landing",
+      "file": "landing-v1.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2551318,
+      "sha256": "72b6ce602867e4b3e9969a70912d3594cf5b4ddadc3668fab6708f05673b33aa",
+      "prompt": "Use case: stylized-concept. Generate ONE NEW 1536x1024 landscape full-bleed environmental background for a point-and-click castle walkthrough. The supplied image is STYLE AND MATERIAL REFERENCE ONLY; create a DIFFERENT room in this same castle. Match its realistic fine environmental painting, pale warm-gray limestone pointed arches, deeply textured dark oak, restrained wine-red textiles, aged brass, soft cool daylight and small warm hearth accents. Believable dignified medium-sized lord's castle, inhabited, beautiful quiet detail, no palace excess. Architectural geometry must be rigid and coherent, straight walls, straight level floors, physically credible perspective. No visible open galleries overlooking another floor, no two-floor cutaways. No people, text, UI, labels, emblems, modern objects, collage or watermark. Do not include any chess pieces. UPPER STAIR LANDING: standing at the top of an enclosed stairwell after a turn, looking into a spacious but intimate upper-floor stone vestibule. The ground-floor hall is COMPLETELY INVISIBLE because solid walls and a bend separate the levels. On far LEFT foreground a short stone balustrade borders an opening returning to stairs going down, only top three straight steps visible behind it, no curved or warped stairs. Main clickable destination: a single large open pointed-arch passage on the RIGHT half around x=68%, from y=25% to 83%, clearly exposed, through which a short length of the corridor is visible and then concealed by perspective. Center-left a tall narrow leaded daylight window and small bench, simple red cushion, oak console with a bronze vase; ceiling dark oak beams lower than the great hall, around 3.8m high. Keep the passage silhouette clean and accessible and centered at roughly (1070,600). Floor clear in front of the doorway. View eye level, 3/4 composition, warm calm atmosphere."
+    },
+    {
+      "id": "corridor",
+      "file": "corridor-v1.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2547066,
+      "sha256": "8e55123d48fb66ea5a1c8d0d36260f6ea7a5f4b50eee86a78708a89ed6d8085a",
+      "prompt": "Use case: stylized-concept. Generate ONE NEW 1536x1024 landscape full-bleed environmental background for a point-and-click castle walkthrough. The supplied image is STYLE AND MATERIAL REFERENCE ONLY; create a DIFFERENT room in this same castle. Match its realistic fine environmental painting, pale warm-gray limestone pointed arches, deeply textured dark oak, restrained wine-red textiles, aged brass, soft cool daylight and small warm hearth accents. Believable dignified medium-sized lord's castle, inhabited, beautiful quiet detail, no palace excess. Architectural geometry must be rigid and coherent, straight walls, straight level floors, physically credible perspective. No visible open galleries overlooking another floor, no two-floor cutaways. No people, text, UI, labels, emblems, modern objects, collage or watermark. Do not include any chess pieces. UPPER FLOOR CORRIDOR: eye-level view down a straight comfortable broad stone corridor in the same castle, NOT a giant cathedral nave. Ceiling 3.5m, simple oak beams, length 12m, daylight at the far END through a leaded arched window overlooking softly blurred courtyard greenery. EXACTLY TWO CLEAR CLOSE OAK ROOM DOORS, both shut, one in the LEFT wall occupying x=12%-32%, y=23%-88%, and one in the RIGHT wall occupying x=68%-88%, y=23%-88%. These doors are foreground destinations and their WHOLE door silhouette including bottom thresholds is clearly exposed. Consistent dark oak pointed-arch door frames and simple bronze handles, one subtle bronze book ornament near left door, no readable signs. This is where the study on left and bedroom on right connect. No extra distant doors or side branches, no stair visible, no balcony. Muted red long runner rug along center, small bench beneath far window, two wall candle sconces, modest framed textile. Perspective has strong depth but near room door panels remain wide enough to click. Do not put furniture or columns in front of either door."
+    },
+    {
+      "id": "study",
+      "file": "study-v1.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2740950,
+      "sha256": "753cd8d64101e80852f5162d5e942857547be841893c7ec96d8ed003191c2826",
+      "prompt": "Use case: stylized-concept. Generate ONE NEW 1536x1024 landscape full-bleed environmental background for a point-and-click castle walkthrough. The supplied image is STYLE AND MATERIAL REFERENCE ONLY; create a DIFFERENT room in this same castle. Match its realistic fine environmental painting, pale warm-gray limestone pointed arches, deeply textured dark oak, restrained wine-red textiles, aged brass, soft cool daylight and small warm hearth accents. Believable dignified medium-sized lord's castle, inhabited, beautiful quiet detail, no palace excess. Architectural geometry must be rigid and coherent, straight walls, straight level floors, physically credible perspective. No visible open galleries overlooking another floor, no two-floor cutaways. No people, text, UI, labels, emblems, modern objects, collage or watermark. Do not include any chess pieces. LORD'S PRIVATE STUDY on upper floor. Eye-level view from the doorway in a corner; the doorway is BEHIND the camera and not visible. One-room high domestic but generous ceiling 3.8m, pale gray pointed stone arches and dark oak ceiling beams. A broad dark-oak writing desk sits LEFT OF CENTER beside tall leaded arched windows on the left, a few closed books, blank parchment, inkwell and quill, tasteful aged brass lamp. Full-height dark oak bookshelves along right rear wall, varied worn leather books, no readable writing. A smaller stone fireplace on far RIGHT, one cozy muted oxblood upholstered reading chair nearby, a small side table, layered worn red rug. Natural late afternoon light from left windows balanced by warm fireplace, grounded shadows, quiet scholarly private character. Consistent same castle architectural details and materials as reference. No doors on far wall, no fancy fantasy magical glow, no floating items, no globe unless physically conventional. Composition must reveal a believable complete room with foreground depth, desk and chair clearly defined."
+    },
+    {
+      "id": "bedroom",
+      "file": "bedroom-v1.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2714525,
+      "sha256": "bfbf8108a81079ef3331fb77fe6f77d1049008557d34097656164ee0e662664f",
+      "prompt": "Use case: stylized-concept. Generate ONE NEW 1536x1024 landscape full-bleed environmental background for a point-and-click castle walkthrough. The supplied image is STYLE AND MATERIAL REFERENCE ONLY; create a DIFFERENT room in this same castle. Match its realistic fine environmental painting, pale warm-gray limestone pointed arches, deeply textured dark oak, restrained wine-red textiles, aged brass, soft cool daylight and small warm hearth accents. Believable dignified medium-sized lord's castle, inhabited, beautiful quiet detail, no palace excess. Architectural geometry must be rigid and coherent, straight walls, straight level floors, physically credible perspective. No visible open galleries overlooking another floor, no two-floor cutaways. No people, text, UI, labels, emblems, modern objects, collage or watermark. Do not include any chess pieces. LORD'S PRIVATE BEDROOM on upper floor. Eye-level view from the doorway at front-right corner; the entrance is behind the viewer and not visible. Spacious comfortable bedroom 3.8m high, restrained western medieval fantasy using same castle pale gray stone and dark oak beams. A beautifully crafted dark-oak four-poster bed is CENTER RIGHT, muted wine-red canopy curtains gathered to bedposts, natural off-white linen sheets, visibly comfortable with realistic folds; straight sturdy bedposts and correct geometry. On LEFT are a large arched leaded window with stone window seat and cushions, soft daylight revealing blurred courtyard trees. A small stone fireplace on back LEFT between window and bed, a bench at foot of bed, simple chest, dark wood wardrobe against far-right wall, one bronze candlestick, worn muted rug on oak floor. The room feels personal, dignified, peaceful and lived-in rather than a hotel or royal palace. Clear light, lovely natural textiles, no people, no extra visible door, no modern lamps, no theatrical excessive luxury."
+    }
+  ]
+}
