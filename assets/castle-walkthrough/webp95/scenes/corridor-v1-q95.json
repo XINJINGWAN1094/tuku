@@ -1,0 +1,16 @@
+{
+  "id": "corridor-v1",
+  "source_sha256": "8e55123d48fb66ea5a1c8d0d36260f6ea7a5f4b50eee86a78708a89ed6d8085a",
+  "source_bytes": 2547066,
+  "bytes": 453036,
+  "sha256": "16322711a4538b841f53ec4e54a42a1993196698664dc757893158e2097c2017",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}
