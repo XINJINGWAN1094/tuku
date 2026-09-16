@@ -1,0 +1,13 @@
+{
+  "id": "landing-v2",
+  "scene_id": "landing",
+  "file": "assets/castle-walkthrough/scenes/landing-v2.png",
+  "bytes": 2379299,
+  "sha256": "4dc70959a85ff067f9ff3114cd7bde7bb1ec6390dd84c82686ba7c448daa124c",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "tool": "built-in image_gen",
+  "prompt": "Use case: precise-object-edit. Asset type: one revised first-person castle game background, 1536x1024 landscape 3:2.\nInput image 1 is the EDIT TARGET: the existing upper stair landing, landing-v1.png. Preserve this exact image and make one local architectural change for a new guest-wing entrance.\nCHANGE ONLY THE CENTER-LEFT WALL BAY: remove the central hanging tapestry and the dark oak console with its vase/bowl beneath it, in the bay between the tall leaded window and the large existing right-hand pointed arch. Replace their footprint with ONE believable full-height CLOSED dark-oak single door in a finely carved but restrained pale-gray pointed stone frame. The new guest-wing door is roughly within x=41%-58%, with arch crown around y=21% and threshold around y=67%, grounded at the same back-wall floor line as the former console. Use correct perspective and a normal human doorway scale for this existing bay, frame slender enough to fit without widening the architecture. Make the complete arch, both jambs and floor threshold visibly clear and unobstructed; one small aged bronze ring handle, no label or emblem. Allow only the adjacent stonework needed to fit this doorway to change.\nKEEP UNCHANGED: camera, original dimensions, room proportions, beams, chandelier, lighting and shadows, all floor slabs and rugs, the tall left window, the bench with its wine-red cushion, the entire carved stone balustrade and descending stairs at bottom left, and especially the LARGE EXISTING OPEN ARCHWAY on the RIGHT with its original outline and corridor beyond. That existing right-hand arch still leads to the lord's corridor; the new closed door leads to the separate guest corridor. Do not move, resize or replace either existing passage, do not add an upward stair on this landing, do not add any other opening or window. The lower great hall remains entirely hidden by stone walls and the stair bend. Same refined realistic painted castle environment, pale warm-gray limestone, dark oak, aged bronze and muted red cloth. No people, text, UI, hotspots, icons, arrows, watermark or before/after collage. Return one complete locally edited image."
+}
