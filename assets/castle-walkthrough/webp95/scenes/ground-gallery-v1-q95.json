@@ -1,0 +1,16 @@
+{
+  "id": "ground-gallery-v1",
+  "source_sha256": "4796d0f077641ef26a308b20796a70b19df4bb65808a3afa8150fb356df85048",
+  "source_bytes": 3176401,
+  "bytes": 641634,
+  "sha256": "d5430162e24a1e62428d2bc58c8631355ddf3caf0fd104c0abe9db69d0be3d4e",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

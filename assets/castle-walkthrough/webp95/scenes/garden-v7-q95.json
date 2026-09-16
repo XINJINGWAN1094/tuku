@@ -1,0 +1,16 @@
+{
+  "id": "garden-v7",
+  "source_sha256": "7b73a088144b4ce121bbfba7eb29ab1559cf98936018c5095718e15792ff8cf7",
+  "source_bytes": 3092822,
+  "bytes": 630400,
+  "sha256": "c9388cc90db88d84ec5472a47e73e3ee87c7aa2d5884a3b18732d475d13b3746",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

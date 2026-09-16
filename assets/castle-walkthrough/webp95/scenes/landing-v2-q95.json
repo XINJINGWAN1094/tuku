@@ -1,0 +1,16 @@
+{
+  "id": "landing-v2",
+  "source_sha256": "4dc70959a85ff067f9ff3114cd7bde7bb1ec6390dd84c82686ba7c448daa124c",
+  "source_bytes": 2379299,
+  "bytes": 408784,
+  "sha256": "b52db1b480858358ebb735226e482f6c02b61a46acc639581d0e021abe2893a0",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

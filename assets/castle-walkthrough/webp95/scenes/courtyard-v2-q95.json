@@ -1,0 +1,16 @@
+{
+  "id": "courtyard-v2",
+  "source_sha256": "14773ba33aef0fa306f2396fec0d8015a03666593e63094eaef0b5370fa0c7c5",
+  "source_bytes": 3547012,
+  "bytes": 763700,
+  "sha256": "90811d114827049cca110124353c21023dd84b40a024062eb0ec9b9d9205bc68",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

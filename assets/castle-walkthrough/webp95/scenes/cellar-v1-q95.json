@@ -1,0 +1,16 @@
+{
+  "id": "cellar-v1",
+  "source_sha256": "aeb7868aead4ef4dcebd926338113a3971120480cf88993a65db6ad6715737bb",
+  "source_bytes": 2948486,
+  "bytes": 590476,
+  "sha256": "4b3cdd9589387fec73e71fc05ed10f8ccf20d4f7556402755cee61e4b653dd69",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}
