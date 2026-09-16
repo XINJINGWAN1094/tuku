@@ -1,0 +1,16 @@
+{
+  "id": "servants-lounge-v1",
+  "source_sha256": "e9fc946aa141a5c2cbc2da64e9c164ffb96067984cf5e33e07ea6912e454795f",
+  "source_bytes": 3099820,
+  "bytes": 652354,
+  "sha256": "ebb4e4719d67fb3a20262c15546f90fa87ee9e5196cd6bd664776fa817b99229",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

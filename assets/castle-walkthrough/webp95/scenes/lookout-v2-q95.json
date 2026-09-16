@@ -1,0 +1,16 @@
+{
+  "id": "lookout-v2",
+  "source_sha256": "834990b8e3a1d853feaf4ff55c156f7bfc291d8a34823c923731426301535691",
+  "source_bytes": 3448792,
+  "bytes": 725086,
+  "sha256": "525759e288c7fc92e7b872495375701520f6be58a4146136e41c42d157d7524d",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "butler-bedroom-v1",
+  "source_sha256": "eda521c1e2d8e29204c2c085089981b216662a4fc7c05e7fe038c408353b8565",
+  "source_bytes": 2947954,
+  "bytes": 575488,
+  "sha256": "2b50c7ff5e175eb68dffa96bb7eb274fe074053162f6678cb19ee5bbca4bb183",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

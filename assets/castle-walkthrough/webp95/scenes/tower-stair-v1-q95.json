@@ -1,0 +1,16 @@
+{
+  "id": "tower-stair-v1",
+  "source_sha256": "563cc6254e272af53e8d05e577bb8d02bd39144e11670b39444d8fcb55062e39",
+  "source_bytes": 2947839,
+  "bytes": 566786,
+  "sha256": "0f3e1f5985c9baf21f91aa747422bf35e1ad231709ab4fe2972fbc72052336e2",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

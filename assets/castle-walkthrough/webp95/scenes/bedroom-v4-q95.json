@@ -1,0 +1,16 @@
+{
+  "id": "bedroom-v4",
+  "source_sha256": "979058b264b139507af54b518f8f0924e5df45c8f06a5260fe916534a71064be",
+  "source_bytes": 2672344,
+  "bytes": 521520,
+  "sha256": "95cdae4f31b82cf4b4b6153e692bd0de6b493dedc3abd7ae8d5e6980bf06aebf",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

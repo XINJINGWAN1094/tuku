@@ -1,0 +1,16 @@
+{
+  "id": "maid-bedroom-v2",
+  "source_sha256": "6093b976d4e15ee6fed9c17cb4a0758853aeb248cb7a2dba958abe3274b26e96",
+  "source_bytes": 2879844,
+  "bytes": 579232,
+  "sha256": "9de7d2b91d689b792e2d19fdfea2c2934bd405e28208f0f110cf1ef3bef8ed66",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}
