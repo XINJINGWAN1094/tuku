@@ -1,0 +1,16 @@
+{
+  "id": "guest-corridor-v1",
+  "source_sha256": "cb3e0ec4842555f6325483c672393d36d968436cf3251e95f61a9167c550ee19",
+  "source_bytes": 3029112,
+  "bytes": 601816,
+  "sha256": "1d3c7af1756b24271eb98a49cad8bad2740a6d2aec68f8286107fdbab7a152d6",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

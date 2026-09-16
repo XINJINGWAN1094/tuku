@@ -1,0 +1,16 @@
+{
+  "id": "dining-room-v1",
+  "source_sha256": "faac24cb5290f57b2297154cda70ba7d2cf52fac4ea0a485b57a9adcca6586f1",
+  "source_bytes": 3029287,
+  "bytes": 621352,
+  "sha256": "287ef8fda206874a9d82838072b54299962b60c3e98cf6ee4672e036ad8112fc",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

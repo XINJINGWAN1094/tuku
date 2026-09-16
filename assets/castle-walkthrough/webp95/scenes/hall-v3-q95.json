@@ -1,0 +1,16 @@
+{
+  "id": "hall-v3",
+  "source_sha256": "e087fc864cc3f9df178d0f7abcc957d954e75661603f635880d07bd8b006e009",
+  "source_bytes": 2445959,
+  "bytes": 444492,
+  "sha256": "c4e6c4d7aacf2bf9aaa0058db74bcc4a4f2e1967f034c4cfe293de4605171371",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

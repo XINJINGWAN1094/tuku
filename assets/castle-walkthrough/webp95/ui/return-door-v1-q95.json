@@ -1,0 +1,16 @@
+{
+  "id": "return-door-v1",
+  "source_sha256": "68aef676b53d1ac3514a3911fb3dcdf2fd68e464eed685eb47492ebd0478971c",
+  "source_bytes": 1371243,
+  "bytes": 250542,
+  "sha256": "06c90192cbfcc645ef090a40bd651ad8f53da8ffefc58f3cb7c5fe781d274373",
+  "dimensions": [
+    1087,
+    1447
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": true,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

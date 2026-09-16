@@ -1,0 +1,16 @@
+{
+  "id": "dressing-room-v1",
+  "source_sha256": "59bfcc23a3f335979cc0f4f8f1b6b760e131581fdaa826f7a083768d822e6284",
+  "source_bytes": 2979946,
+  "bytes": 608960,
+  "sha256": "381ffaa0f79d50882b758128bb5fa432f8a1b270a4fb32d5c8aba98158c71897",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "guest-room-v1",
+  "source_sha256": "03b9206c9120d2ada8e13c564f999a467f0676a0ba154fc66de46f7198821c65",
+  "source_bytes": 3172667,
+  "bytes": 654526,
+  "sha256": "d05143746619afda7e6cd8dd5d89699221cac7ba2fccca812e5ed38ae627a324",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

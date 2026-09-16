@@ -1,0 +1,16 @@
+{
+  "id": "kitchen-v1",
+  "source_sha256": "c18a87f3e446a186557ad5fd0ec3b397d7728e2f00c661841781c9191e12d73f",
+  "source_bytes": 2950375,
+  "bytes": 601478,
+  "sha256": "868fa74b541ea2070d02f8d9909fd2b0104885b716deb358a5cb7812efcfbcae",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}

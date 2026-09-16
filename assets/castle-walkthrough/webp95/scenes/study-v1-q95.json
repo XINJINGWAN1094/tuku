@@ -1,0 +1,16 @@
+{
+  "id": "study-v1",
+  "source_sha256": "753cd8d64101e80852f5162d5e942857547be841893c7ec96d8ed003191c2826",
+  "source_bytes": 2740950,
+  "bytes": 562590,
+  "sha256": "e68dad88c5f2ffe122c3c21d9de9f35056e154ac63fd7b6ebbecfac241dab7df",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "format": "webp",
+  "quality": 95,
+  "method": 6,
+  "alpha_preserved": false,
+  "encoder": "Pillow/libwebp 1.6.0"
+}
