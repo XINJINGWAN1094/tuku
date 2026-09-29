@@ -1,0 +1,27 @@
+{
+  "key": "smithy",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "format": "webp",
+  "quality": 95,
+  "alphaQuality": 100,
+  "method": 6,
+  "encoder": "libwebp 1.6.0 cwebp",
+  "resized": false,
+  "alphaPreserved": true,
+  "alphaSha256": "4840bb5a02a030e46a49b5174d5b3104908bce1558e393ac96058d0161e3d8d2",
+  "alphaBox": {
+    "x": 22,
+    "y": 95,
+    "width": 1222,
+    "height": 1029
+  },
+  "alphaThreshold": 12,
+  "bytes": 539670,
+  "sha256": "7799f14ba7d06e5c9f9e77c0c57668fdce183ac1abf05132aab7c5a02f81e047",
+  "sourceSha256": "069d4b97c3bfb37a382c27a3de6944bfbe11f6d96f7267e77a94d7616e610a28",
+  "generation": "Built-in image_gen",
+  "prompt": "Use case: stylized-concept.\nAsset type: one production-ready transparent cutout blacksmith workshop building sprite for a western medieval fantasy territory-building map.\nPrimary request: a compact medieval blacksmith's shop, matching a finely painted, realistically textured strategy-game building set, with readable silhouette at small scale.\nSubject: a modest one-story timber-framed stone workshop, weathered dark oak beams, warm pale plaster, old russet-brown clay roof tiles, one substantial soot-darkened stone chimney, and an attached open forge bay. Under the bay roof show a small warmly glowing charcoal forge, an anvil on a thick wooden block and restrained hand tools, a small rack of iron bars, one quenching barrel. These are integrated parts of this single compact building. No people, animals, nearby buildings, weapons display hall or fantasy magic effects.\nStyle/medium: richly detailed realistic hand-painted medieval strategy-game sprite, natural aged stone and oak texture, crisp painterly edges, believable materials and proportions, no thick outlines, no cartoon exaggeration, no low-poly toy rendering.\nComposition/framing: square canvas, elevated three-quarter front view, front and one side visible, modest amount of roof visible, orthographic feel consistent with a placed medieval tavern sprite. Complete single building centered with transparent padding, all chimney and roof tips inside the canvas. A very thin irregular stone foundation immediately under the building and working bay; no scenic ground island or thick floating pedestal, no landscape.\nLighting: soft neutral daylight from upper left with warm forge glow confined to the forge opening; contact shadows confined to actual building footprint. No smoke cloud that obscures silhouette, no snow.\nBackground: genuinely transparent alpha outside the entire sprite and open gaps. No sky, horizon, opaque solid backdrop, drawn checkerboard or rectangular ground tile. Solid building surfaces must be opaque; soft antialiasing only at silhouette edge. No white halo, red or magenta fringe.\nText: none; no letters, labels, logos, watermarks, UI, grid or frame. Render one finished high-resolution square image only."
+}
