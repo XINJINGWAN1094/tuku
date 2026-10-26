@@ -3,9 +3,12 @@
 *.{bat,[bB][aA][tT]} text eol=crlf
 
 dist/** merge=ours
+<<<<<<< HEAD
 *.webp binary
 *.jpg binary
 *.jpeg binary
 *.png binary
 *.json text eol=lf
 *.md text eol=lf
+=======
+>>>>>>> 3ee370304f725ffc74d481bb24331e890bad1641
